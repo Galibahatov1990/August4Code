@@ -7,6 +7,8 @@ public class LoopExerciseprint {
 		
 		int counter = 501;
 		
+		int counter = 200;
+		
 		System.out.println("loop started");
 		while(counter <=  1000) {
 			
